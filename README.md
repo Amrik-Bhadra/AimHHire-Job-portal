@@ -1,4 +1,4 @@
-# AimHHire-Job-portal
+# AimHire-Job-portal
 Build a Job Search Portal which consists of 3 types of uses: Job Seekers, Job Recruiters, and Admin.
 
 ![hero section](https://github.com/user-attachments/assets/35dbbe2b-2502-4ee2-8db5-935093c193ad)
